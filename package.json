@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "minimist": "1.2.5"
+    "minimist": "1.2.5",
+    "spawnify": "7.0.2"
   }
 }
